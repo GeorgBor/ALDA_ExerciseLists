@@ -11,3 +11,29 @@
 #include <stdio.h>
 
 #endif /* list_h */
+
+void insertFirst() {
+
+}
+
+void insertLast() {
+
+
+}
+void insertOnPosition() {
+
+
+}
+void deletePostion() {
+
+
+}
+void swapPosition() {
+
+
+}
+
+
+
+
+

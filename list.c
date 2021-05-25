@@ -6,3 +6,15 @@
 //
 
 #include "list.h"
+
+
+typedef struct led
+{
+	char color;
+	char next;
+
+} led;
+
+
+
+
